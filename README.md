@@ -68,9 +68,7 @@ Patient_Management_System_API-FastAPI/
 1. **Clone the repository** (see Quick Start)  
 2. **Install dependencies** using `pip`  
 3. **Run the application** with `uvicorn`  
-4. **Explore the API** at [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)  
-   - The **Swagger UI** lets you view and test all endpoints interactively.  
-5. **Interact with Endpoints**  
+4. **Interact with Endpoints**  
    - Use tools like **Postman** or **curl** to perform CRUD operations on patient data.
 
 ---
