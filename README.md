@@ -37,13 +37,6 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
-### 4️⃣ Access the API
-Visit the interactive documentation at:  
-👉 [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
-
-Use tools like **curl**, **Postman**, or your **web browser** to test endpoints.
-
----
 
 ## 📂 Repository Structure
 ```
